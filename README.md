@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[Adriana]*
 
 *[Your Cohort, Campus & Date]*
 
@@ -19,7 +19,7 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show.
+Optimizing PPC.
 
 ## Hypotheses / Questions
 * What data/business/research/personal question you would like to answer?
